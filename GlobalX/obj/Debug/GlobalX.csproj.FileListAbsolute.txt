@@ -1,0 +1,6 @@
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\bin\Debug\GlobalX.exe.config
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\bin\Debug\GlobalX.exe
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\bin\Debug\GlobalX.pdb
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\obj\Debug\GlobalX.csprojResolveAssemblyReference.cache
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\obj\Debug\GlobalX.exe
+c:\users\vivak bagga\documents\visual studio 2015\Projects\GlobalX\GlobalX\obj\Debug\GlobalX.pdb
